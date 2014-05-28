@@ -29,7 +29,7 @@ Author URI: http://jameskoster.co.uk
 			/*-----------------------------------------------------------------------------------*/
 
 			function wpr_script() {
-				wp_enqueue_script( 'ragadjust', plugins_url( '/assets/js/ragadjust.min.js', __FILE__ ), '', '1.0.0' );
+				wp_enqueue_script( 'ragadjust', plugins_url( '/assets/js/ragadjust.js', __FILE__ ), '', '1.0.0' );
 			}
 
 			function wpr_script_load() {
