@@ -6,7 +6,7 @@ Version: 1.0.0
 Description: Includes ragadjust.js to fix common typographical rag violations.
 Author: X-Raym
 Tested up to: 3.9
-Author URL: http://extremraym.com
+Author URI: http://www.extremraym.com
 
 	License: GNU General Public License v3.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
