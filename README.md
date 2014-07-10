@@ -9,4 +9,4 @@ This X-Raym's version has for purpose to avoid two bugs :
 
 This is done by deleting the "prepositions" part of the original script, which is not usefull for non-english text.
 
-The javascript is not minified in order to make modifications easier. Wordpress Optimization plugins can be used if needed.
+The javascript is not minified in order to make modifications easier. Wordpress optimization plugins can be used if needed.
